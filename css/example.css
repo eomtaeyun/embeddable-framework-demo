@@ -50,7 +50,7 @@ body {
 }
 
 textarea {
-    width: 350px; /* 調整文本框的寬度 */
+    width: 1000px; /* 調整文本框的寬度 */
     height: 150px; /* 增加文本框的高度 */
 }
 
