@@ -2,12 +2,12 @@ var contactSearchCallback;
 
 window.Framework = {
     config: {
-        name:"ExampleGitHubApp",
+        name:"taeyun_Embedded Framework",
         clientIds: {
             'mypurecloud.com': '',
             'mypurecloud.ie': '',
             'mypurecloud.com.au': '',
-            'mypurecloud.jp': 'a16d8045-3122-4141-b3d7-cb85e8561b2d',
+            'usw2.pure.cloud': 'cf7b8064-22e9-4490-b33a-ab4a669613dc',
             'mypurecloud.de': ''
         },
         customInteractionAttributes: ['PT_URLPop', 'PT_SearchValue', 'PT_TransferContext'],
