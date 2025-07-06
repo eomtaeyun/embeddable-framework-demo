@@ -2,7 +2,7 @@ var contactSearchCallback;
 
 window.Framework = {
     config: {
-        name:"taeyun_Embedded Framework",
+        name:"teomdev",
         clientIds: {
             'mypurecloud.com': '',
             'mypurecloud.ie': '',
