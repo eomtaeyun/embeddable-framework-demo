@@ -4,7 +4,7 @@ window.Framework = {
     config: {
         name:"teomdev",
         clientIds: {
-            'mypurecloud.com': '',
+            'mypurecloud.com': 'cf7b8064-22e9-4490-b33a-ab4a669613dc',
             'mypurecloud.ie': '',
             'mypurecloud.com.au': '',
             'usw2.pure.cloud': 'cf7b8064-22e9-4490-b33a-ab4a669613dc',
